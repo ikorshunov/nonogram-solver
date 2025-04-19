@@ -1,5 +1,3 @@
-import { test, expect } from '@jest/globals';
-
 import { overlap } from '../overlap';
 import { Line } from '../types';
 
